@@ -1,0 +1,1 @@
+Using block entities like chests, ender chests, shulker boxes, beds (on placeable on regular blocks, not block entities), hanging signs, and signs, means that they don’t render in if you’re 64 blocks away. so if you’re on the ground, so won’t see them if you’re far away from them. This also allows us to make a fake water trap.
